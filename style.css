@@ -1,0 +1,203 @@
+
+body {
+    background-color: #f1b8d2;
+    margin: 0;
+    padding: 0;
+    font-family: 'The Girl Next Door', cursive;
+    color: #ff008cdc;
+    font-weight: bolder;
+   
+  }
+  
+ 
+  header {
+    text-align: center;
+    background-color: #ff99cc;
+    padding: 20px 0;
+  }
+  
+  header h1 {
+    font-family: 'Indie Flower', cursive;
+    font-size: 36px;
+    color: #fff;
+    margin: 0;
+  }
+  
+  
+  nav {
+    background-color: #e70074;
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline-block;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #6d0837;
+    font-size: 20px;
+    padding: 10px 20px;
+    border-radius: 30px;
+    background-color: #e60073;
+    margin-right: 10px;
+  }
+  
+ 
+  nav ul li a:hover {
+    background-color: #ff66a3;
+  }
+  
+  
+  main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    
+    
+  }
+      
+  
+  .barbie-image img,
+  .hello-kitty-gallery img {
+    width: 100%;
+    border: 5px solid #d65495;
+    border-radius: 20px;
+  }
+  
+  
+  .message {
+    background-color: #ff0073;
+    padding: 20px;
+    border-radius: 20px;
+    font-size: 18px;
+    line-height: 1.6;
+  }
+  
+ 
+  .message p {
+    margin-bottom: 15px;
+    text-align: justify;
+  }
+  
+ 
+  h2, h3 {
+    font-family: 'Shadows Into Light', cursive;
+    color: #e60073;
+  }
+  
+ 
+  .contact-form {
+    background-color: #e03381;
+    padding: 20px;
+    border-radius: 20px;
+  }
+  
+  .contact-form label {
+    font-weight: bold;
+    color: #e60073;
+  }
+  
+  .contact-form input[type="text"],
+  .contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 2px solid #ff99cc;
+    border-radius: 10px;
+    font-size: 16px;
+  }
+  
+  .contact-form input[type="submit"] {
+    background-color: #e60073;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+  .contact-form input[type="submit"]:hover {
+    background-color: #ff66a3;
+  }
+  .home-section {
+    text-align: justify;
+    padding: 10px;
+    font-family: 'Kalam', cursive;
+    font-size: 16px;
+    
+  }
+  .qq1{
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    color: #6d0837;
+  }
+  .qq2{
+    text-align: left;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 18px;
+    color: #6d0837;
+  }
+  .qq3{
+    text-align: left;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 16px;
+    color: #6d0837;
+  }
+  .hellokitty-section{
+    text-align: center;
+    padding: 20px;
+    font-family: 'Lumanosimo', cursive;
+    font-size: 15px;
+    color: #000000;
+    width: auto;
+    background-color: #ff4ca5;
+    font-weight: bolder;
+    background-image: url("https://external.xx.fbcdn.net/emg1/v/t13/4721007664203160074?url=https%3A%2F%2Fi.pinimg.com%2F736x%2F93%2F02%2Fd6%2F9302d68c44812c02aeafc04cd245ff2e.jpg&fb_obo=1&utld=pinimg.com&stp=c0.5000x0.5000f_dst-emg0_p300x157_q75&ccb=13-1&oh=06_AbHa9_NaloZmN4tZTASdDfjKb_vR_MaI3R_O3HdMxd-DJg&oe=64C61AB6&_nc_sid=e9c42e"); 
+    background-repeat: repeat;
+    background-size: 80px; 
+  }
+  .barbie-section{
+    text-align: center;
+    padding: 20px;
+    font-family: 'Indie Flower', cursive;
+    font-size: 15px;
+    color: #000000;
+    width: auto;
+    background-color: #ff4ca5;
+    background-image: url("https://i.pinimg.com/236x/cd/31/56/cd315608a1ca959e46b2be72495092fa.jpg"); 
+    background-repeat: repeat;
+    background-size: 50px; 
+  }
+  .haseeb{
+    width: 210px;
+  }
+  .mwah-section{
+    text-align: center;
+    padding: 20px;
+    font-family: 'DotGothic16', sans-serif;
+    font-size: 15px;
+    color: #000000;
+    width: auto;
+    background-color: #ff4ca5;
+    font-weight: bolder;
+    background-image: url("https://i.pinimg.com/236x/26/7c/15/267c15fc566fd6a96b61b0321fe42ef7.jpg"); 
+    background-repeat: repeat;
+    background-size: 80px;
+ 
+  }
+  .safa{
+    background-color: #ff0077;
+  }
+  
